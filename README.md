@@ -44,6 +44,6 @@ From the pivot table, we created the following visuals
 
 ![](Visuals.png)
 
-## Conclusion
+## Conclusion 🔚
 
-From the results, we can see how the two genders perform against each other on the different 
+From the results, we can see how the two genders perform against each other on the different health metrics.
